@@ -1,6 +1,6 @@
 ### Hi there, I'm Jadnast Rich - aka [jadnast][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://akio.cf/)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fakio.cf)](https://akio.cf/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/jadnast_/)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
